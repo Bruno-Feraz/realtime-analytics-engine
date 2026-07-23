@@ -1,0 +1,26 @@
+# Node
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Database
+*.db
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Tests
+coverage/
+.nyc_output/
+
+# Build
+build/
+.next/
