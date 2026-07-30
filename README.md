@@ -12,11 +12,7 @@ Motore di analisi real-time per ingest, processing e query su stream dati con da
 - **Caching**: Redis per query frequenti ad alte prestazioni
 - **Alerting**: Threshold-based alerts su metriche
 
-## 🚀 Demo Live
 
-**[🔗 Visualizza Dashboard](https://realtime-analytics-engine.railway.app)**
-
-![Dashboard Preview](./docs/dashboard.gif)
 
 ## 📋 Prerequisiti
 
